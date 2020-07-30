@@ -1,0 +1,23 @@
+.banner {
+  background-image: url('https://source.unsplash.com/random');
+  background-size: cover;
+  padding: 200px 0;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+}
+
+.banner > a{
+  background-image : linear-gradient(to bottom, #6AD58B, #6AD58B);
+  margin: 10px;
+  padding: 10px 20px 10px 20px;
+  border-radius: 30px;
+  color: white;
+  font-size: 15px;
+  display: inline-block;
+  padding-bottom: 16px;
+  padding-left: 36px;
+  padding-right: 36px;
+  padding-top: 16px;
+}
+
